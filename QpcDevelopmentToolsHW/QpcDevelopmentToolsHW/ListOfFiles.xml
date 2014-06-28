@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" ?>
+<project>
+	<file>AdditionMethods.cs</file>
+	<file>App.config</file>
+	<file>DivisionMethods.cs</file>
+	<file>ListOfFiles.tt</file>
+	<file>ListOfFiles.xml</file>
+	<file>MultiplicationMethods.cs</file>
+	<file>packages.config</file>
+	<file>QpcDevelopmentToolsHW.csproj</file>
+	<file>Settings.StyleCop</file>
+	<file>StyleCop.Cache</file>
+	<file>SubtractionMethods.cs</file>
+	<file>TestArithmeticMethods.cs</file>
+</project>

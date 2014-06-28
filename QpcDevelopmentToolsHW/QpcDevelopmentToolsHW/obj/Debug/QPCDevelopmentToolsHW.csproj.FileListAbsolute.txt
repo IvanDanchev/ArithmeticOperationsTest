@@ -1,0 +1,8 @@
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\bin\Debug\QPCDevelopmentToolsHW.exe.config
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\bin\Debug\QPCDevelopmentToolsHW.exe
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\bin\Debug\QPCDevelopmentToolsHW.pdb
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\obj\Debug\QpcDevelopmentToolsHW.csprojResolveAssemblyReference.cache
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\obj\Debug\QPCDevelopmentToolsHW.exe
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\obj\Debug\QPCDevelopmentToolsHW.pdb
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\bin\Debug\log4net.dll
+C:\Users\lili\Documents\Visual Studio 2012\Projects\QPCHomework\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\QPCDevelopmentToolsHW\bin\Debug\log4net.xml
